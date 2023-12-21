@@ -1,0 +1,2 @@
+# nuaa_svm_homework
+南京航空航天大学高级模式识别大作业，不适用包用SMO实现SVC，可以借助包实现KPCA与PCA在Iris和Image Segmentation数据集上的实验分析，用KLDA代替KPCA，仓库包含完整项目和作业报告以及算法详细pdf
